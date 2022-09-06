@@ -24,6 +24,7 @@
   <br>
 <div align="center">
 <img align="center" alt="Mahmoud's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudRH&theme=vue"/>
+<br>
 <img align="center" alt="Mahmoud's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudRH" />
 </div>
 </details>
