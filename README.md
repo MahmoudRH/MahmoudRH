@@ -18,7 +18,7 @@
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/MahmoudRH)
+![Profile views](https://komarev.com/ghpvc/?username=MahmoudRH)
 <br>
 <br>
 <details>
