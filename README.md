@@ -1,6 +1,4 @@
 ### Hi there 👋<br> I'm Mahmoud <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
-- 🌱 I’m currently learning Jetpack Compose.
-- 👯 I’m looking to collaborate on Android Projects.
 - 📫 How to reach me:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact via email"/>](mailto:mhmoudrhabib@gmail.com)
