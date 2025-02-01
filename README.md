@@ -1,10 +1,14 @@
-### Hi there 👋<br> I'm Mahmoud <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
-#### 📫 How to reach me:
+### Hi there 👋<br> I'm Mahmoud, a Passionate Software Engineer 
 
-[<img src="https://skillicons.dev/icons?i=gmail" alt="contact via email"/>](mailto:mhmoudrhabib@gmail.com)
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile"/>](https://www.linkedin.com/in/mahmoudhabib)
+I'm a software engineer with a passion for building **mobile apps** . I specialize in Android development using **Kotlin** and **Java**, and I also enjoy working with **Flutter** for cross-platform apps. When I'm not coding, I love exploring new technologies and contributing to open-source projects.
 
+---
+### 📫 How to reach me:
 
+[<img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn Profile"/>](https://www.linkedin.com/in/mahmoudhabib)
+[<img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="contact via email"/>](mailto:mhmoudrhabib@gmail.com)
+
+---
 
 ### **⚒️ Languages and Tools:**  
 
@@ -31,18 +35,17 @@
 
 ![My Skills](https://skillicons.dev/icons?i=linux,windows,apple)
 
-<br>
+---
 
-![Profile views](https://komarev.com/ghpvc/?username=MahmoudRH)
-<br>
-<br>
 <details>
-  <summary>Github Stats</summary>
+  <summary>📊 GitHub Stats</summary>
   <br>
-<div align="center">
-<img align="center" alt="Mahmoud's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudRH&theme=vue"/>
-<br>
-<br>
-<img align="center" alt="Mahmoud's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudRH" />
-</div>
+  <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudRH&show_icons=true&theme=radical" alt="Mahmoud's GitHub Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudRH&theme=radical" alt="Mahmoud's Streak Stats" />
+  </div>
 </details>
+
+---
+
+Thanks for visiting my profile! Have a great day! 😄
