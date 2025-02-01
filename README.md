@@ -1,18 +1,35 @@
 ### Hi there 👋<br> I'm Mahmoud <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
-- 📫 How to reach me:
+#### 📫 How to reach me:
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact via email"/>](mailto:mhmoudrhabib@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>](https://www.linkedin.com/in/mahmoudhabib)
+[<img src="https://skillicons.dev/icons?i=gmail" alt="contact via email"/>](mailto:mhmoudrhabib@gmail.com)
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile"/>](https://www.linkedin.com/in/mahmoudhabib)
+
+
 
 ### **⚒️ Languages and Tools:**  
 
+#### 🚀 Mobile Development
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,firebase)
+#### 🖥 Backend Development
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=ktor,nodejs,express,mongo)
+
+#### 🛠 Tools & Platforms
+
+![My Skills](https://skillicons.dev/icons?i=gradle,postman,git,github,figma)
+
+#### 💻 IDEs & Code Editors
+
+![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode)
+
+#### 🎮 Game Development
+
+![My Skills](https://skillicons.dev/icons?i=unity,cs)
+
+#### 💻 Operating Systems
+
+![My Skills](https://skillicons.dev/icons?i=linux,windows,apple)
 
 <br>
 
